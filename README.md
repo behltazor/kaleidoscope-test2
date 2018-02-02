@@ -9,3 +9,5 @@ npm install
 cp .env.production .env
 ```
 
+User: noreply@test.net
+Passwd: demo123
